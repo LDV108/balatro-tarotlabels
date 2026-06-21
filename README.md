@@ -2,6 +2,11 @@
 
 Overlays each tarot card's name directly on the card art. Useful when using skin mods that don't print names on the artwork.
 
+![Pack selection with card selected](assets/pack-selected.png)
+![Shop with card selected](assets/shop-selected.jpg)
+![Pack selection idle](assets/pack-idle.jpg)
+![Career stats screen](assets/stats.jpg)
+
 ## Requirements
 
 - [Balatro](https://www.playbalatro.com/)
