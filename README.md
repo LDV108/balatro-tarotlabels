@@ -36,3 +36,7 @@ Long names such as "The High Priestess" are split into two balanced lines on the
 ## Compatibility
 
 Works with any tarot skin mod. The label reads the game's own card name data, not the artwork, so it picks up the correct name regardless of which skin is active.
+
+## Tarot skin used in screenshots
+
+The card art shown above uses the [Persona 3 Tarot skin](https://www.nexusmods.com/balatro/mods/70) available on Nexus Mods.
