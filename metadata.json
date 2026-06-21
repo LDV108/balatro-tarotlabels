@@ -1,0 +1,11 @@
+{
+  "id": "TarotLabels",
+  "name": "Tarot Labels",
+  "author": ["LDV"],
+  "display_name": "Tarot Labels",
+  "description": "Draws the tarot card name at the bottom of each tarot card face.",
+  "prefix": "tlabels",
+  "main_file": "TarotLabels.lua",
+  "priority": 0,
+  "version": "1.0"
+}
